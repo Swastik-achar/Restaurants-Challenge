@@ -1,0 +1,29 @@
+.Card {
+  background-size: 800px;
+  width: 500px;
+  height: 500px;
+  display: inline-flex;
+  position: center;
+  margin-right: -10px;
+  margin-left: 150px;
+  margin-bottom: 40px;
+  box-shadow: 20px 20px 20px grey;
+}
+.card-content {
+  margin-top: auto;
+  opacity: 1;
+  width: 600px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: auto;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -ms-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+.restaurants{
+  display: inline-block;
+  width:100%;
+  background-color: #4169E1;
+  
+}
